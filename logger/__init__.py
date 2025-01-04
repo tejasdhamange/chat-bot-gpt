@@ -36,3 +36,4 @@ class CustomLogger:
     def get_logger(self):
         """Return the configured logger instance."""
         return self.logger
+    #

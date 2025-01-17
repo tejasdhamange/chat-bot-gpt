@@ -2,7 +2,7 @@
 
 # General application settings
 app:
-  name: "PW Custom ChatGPT"  # Name of the application
+  name: "Chat-Bot-GPT"  # Name of the application
   version: "1.0.0"    # Version of the application
 
 # API configuration

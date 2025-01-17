@@ -1,5 +1,5 @@
 # config/config.yaml
-
+#
 # General application settings
 app:
   name: "Chat-Bot-GPT"  # Name of the application

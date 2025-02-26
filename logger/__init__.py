@@ -37,3 +37,4 @@ class CustomLogger:
         """Return the configured logger instance."""
         return self.logger
     
+

@@ -10,3 +10,4 @@ if __name__ == '__main__':
     # Run the Flask application on all available IPs and specify the port
     print("Flask app is running on http://127.0.0.1:5000/")
     app.run(host='127.0.0.1', port=5000, debug=True)  # Use 127.0.0.1 for local access
+

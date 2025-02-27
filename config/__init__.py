@@ -32,3 +32,4 @@ config = app_config.config  # This is now accessible throughout your application
 API_KEY = config['api']['key']
 
 
+

@@ -31,3 +31,4 @@ config = app_config.config  # This is now accessible throughout your application
 # Example usage: Accessing API key from config
 API_KEY = config['api']['key']
 
+
